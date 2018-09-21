@@ -1,6 +1,6 @@
 # NLP Exploration
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/0993f954d899498e8c69bc63a5802132)](https://app.codacy.com/app/rizkyfalih/NLP-Exploration?utm_source=github.com&utm_medium=referral&utm_content=rizkyfalih/NLP-Exploration&utm_campaign=badger)
-[![codebeat badge](https://codebeat.co/badges/72067d01-a73e-444c-9acf-84d694d41b82)](https://codebeat.co/projects/github-com-rizkyfalih/NLP-Exploration-master)\
+[![codebeat badge](https://codebeat.co/badges/72067d01-a73e-444c-9acf-84d694d41b82)](https://codebeat.co/projects/github-com-rizkyfalih/NLP-Exploration-master)
 
 <p align="justify">This is an exploration of natural language processing. The NLP topic deals with the interaction between human and computer, and the ultimate goal is that computer could understand the command delivered in human natural language. The biggest challenge in processing natural language is ambiguity. Ambiguity found in each level of language complexity, from the lexical until pragmatic level. This course objective includes the student ability to design and evaluate a system that is based on lexical, syntactic, and semantic level of language processing, and to design - implement - evaluate an NLP based system for a real problem.</p>
 
