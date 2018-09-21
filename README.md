@@ -3,13 +3,12 @@ This is an exploration of natural language processing. The NLP topic deals with 
 
 # Methods
 <ul>
-  <li>[[intro-nltk]](https://web.stanford.edu/~jurafsky/slp3/13.pdf)</li> 
-  <li>[[n-gram]](https://courses.engr.illinois.edu/cs373/sp2009/lectures/lect_15.pdf)</li> 
+  <li><a href="https://web.stanford.edu/~jurafsky/slp3/13.pdf">intro-nltk</a></li> 
+  <li><a href="https://courses.engr.illinois.edu/cs373/sp2009/lectures/lect_15.pdf">n-gram</a></li> 
 </ul>
 
 
 # References
-
 - Jurafsky, David, and James H. Martin. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition. Upper Saddle River, NJ: Prentice-Hall, 2000. ISBN: 0130950696..
   Second Edition: http://www.deepsky.com/~merovech/voynich/voynich_manchu_reference_materials/PDFs/jurafsky_martin.pdf
   
