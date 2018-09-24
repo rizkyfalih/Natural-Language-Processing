@@ -6,8 +6,10 @@
 
 # Methods
 <ul>
-  <li><a href="https://web.stanford.edu/~jurafsky/slp3/13.pdf">intro-nltk</a></li> 
-  <li><a href="https://courses.engr.illinois.edu/cs373/sp2009/lectures/lect_15.pdf">n-gram</a></li> 
+  <li><a href="https://github.com/rizkyfalih/NLP-Exploration/tree/master/intro-nltk">Introduction NLTK</a></li> 
+  <li><a href="https://github.com/rizkyfalih/NLP-Exploration/tree/master/n-gram">N-Gram</a></li> 
+  <li><a href="https://github.com/rizkyfalih/NLP-Exploration/tree/master/post-tag">POST Tag</a></li>
+   
 </ul>
 
 
