@@ -1,0 +1,23 @@
+<kalimat id=1>
+saya	A
+ingin	B
+makan	F
+ikan	D
+</kalimat>
+<kalimat id=2>
+saya	A
+makan	C
+seafood	D
+kemaren	G
+</kalimat>
+<kalimat id=3>
+dia	A
+ingin	B
+tidur	F
+nyenyak	E
+</kalimat>
+<kalimat id=4>
+semalam	G
+saya	A
+tidur	C
+</kalimat>
